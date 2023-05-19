@@ -1,0 +1,12 @@
+/* 横幅颜色 */
+.App-header {
+	background: #ffffff
+}
+/* 文字logo颜色 */
+.App-header a {
+	color: #50abeb
+}
+/* 导航栏链接 */
+.App-header .Button, .App-header .Button:hover {
+	color: #000000
+}
