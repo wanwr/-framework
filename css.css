@@ -10,3 +10,8 @@
 .App-header .Button, .App-header .Button:hover {
 	color: #000000
 }
+
+/* 个人中心回复标题 */
+.PostsUserPage-discussion a {
+	font-style:font-style;
+}
